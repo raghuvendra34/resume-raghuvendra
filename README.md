@@ -9,7 +9,6 @@ I am a motivated technology enthusiast specializing in **artificial intelligence
 ## Repository Contents
 
 - `Resume.pdf` – My latest resume in PDF format.
-- `Resume.docx` – My latest resume in Word format.
 - This `README.md` file.
 
 ## Key Skills & Focus Areas
